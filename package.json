@@ -1,0 +1,9 @@
+{
+  "name": "staff-register",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
